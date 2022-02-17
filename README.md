@@ -57,4 +57,4 @@ yarn build
 ```
 
 ## Credits
-Protobuf description file was originally from [overtools/TACTLib](https://github.com/overtools/TACTLib/blob/master/TACTLib/Agent/Protobuf/ProtoDatabase.proto)
+Protobuf description file was originally from [overtools/TACTLib](https://github.com/overtools/TACTLib)
